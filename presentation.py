@@ -149,8 +149,6 @@ class Listener_desktop(Leap.Listener):
                         flush_buffer()
                         Listener_desktop.rotationlock = currentframe.timestamp                        
                         time.sleep(1)
-                        #os.system("ssh pi@192.168.2.25 'cd /home/pi/Desktop/leap_booth/ && python pi_photobooth.py' ")
-                        #sys.exit("message")
                         
                     else:
                         clockwiseness = "counterclockwise"

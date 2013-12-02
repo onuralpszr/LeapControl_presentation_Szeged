@@ -2,7 +2,7 @@
 #
 #  Created by Onualp SEZER on 28/07/2013.
 #  Copyright (c) 2013 Thunderbirdtr.blogspot.com All rights reserved.
-#
+#  This codes created for "Free Software Conference OSOL Szeged 2013 Motion Controlling on Fedora talk"
 
 #  Redistribution and use in source and binary forms, with or without
 #  modification, are permitted provided that the following conditions are met:

@@ -21,6 +21,7 @@ Libreoffice Presentation Control used in Szeged Event 2013 (Fedora Hungary Event
 
 *License*
 
+
 .. image:: https://www.gnu.org/graphics/gplv3-127x51.png
    :target: https://www.gnu.org/licenses/gpl.txt
 
